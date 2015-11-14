@@ -2,9 +2,9 @@
 
 #!/usr/bin/env python # -*- coding: utf-8 -*
 
-a = raw_input("Lütfen bir sayı girin:") 
-b = raw_input("Lütfen başka bir sayı daha girin:") 
-print a + b 
+a = input("Lütfen bir sayı girin:") 
+b = input("Lütfen başka bir sayı daha girin:") 
+print a + b
 
 #Sonuc olarak a değişkenine girilen bir sayıyı b değişkenine girilen başka bir sayı ile print a+b kodu ile toplatıyoruz.
 Bir nevi hesap makinesi gibi bir uygulama yapmış oluyoruz...
