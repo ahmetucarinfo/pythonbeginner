@@ -7,4 +7,4 @@ b = raw_input("Lütfen başka bir sayı daha girin:")
 print a + b 
 
 #Sonuc olarak a değişkenine girilen bir sayıyı b değişkenine girilen başka bir sayı ile print a+b kodu ile toplatıyoruz.
-Bir nevi hesap makinesi gibi bir uygulama oluyor.
+Bir nevi hesap makinesi gibi bir uygulama yapmış oluyoruz...
